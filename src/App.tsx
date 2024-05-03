@@ -1,5 +1,5 @@
 import React from "react";
-import Calculator from "./Calculator";
+import Calculator from "./calculator";
 import { Container } from "@mui/material";
 
 const App: React.FC = () => {
