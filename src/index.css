@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: #160700;
+}
+
+@font-face {
+  font-family: "comics";
+  src: local("comics"), url(./assets/fonts/Comics.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Poppin";
+  src: local("Poppin"), url(./assets/fonts/Poppin.woff) format("woff");
+}
